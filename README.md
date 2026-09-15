@@ -1,16 +1,16 @@
-# Noir Signal Wallpapers
+# Wallpaper Collection
 
-A curated collection of dark, cinematic wallpapers for Linux desktops, Hyprland, and any setup that appreciates a quiet screen with a little atmosphere.
+A curated collection of dark, cinematic wallpapers for desktops, laptops, and any setup that appreciates a quiet screen with a little atmosphere.
 
-The collection moves between noir cityscapes, deep space, anime night scenes, abstract color, machines, landscapes, and minimal marks. Most images are chosen to leave enough visual breathing room for bars, terminals, launchers, and readable windows.
+The collection moves between dark cityscapes, deep space, anime night scenes, abstract color, machines, landscapes, and minimal marks. Most images are chosen to leave enough visual breathing room for bars, terminals, launchers, and readable windows.
 
 ## Gallery
 
-### Noir Signal
+### Featured
 
 <table>
 <tr>
-<td width="50%"><img src="noir-signal-city.png" alt="Noir Signal city wallpaper"></td>
+<td width="50%"><img src="city-at-night.png" alt="City at night wallpaper"></td>
 <td width="50%"><img src="arch.jpg" alt="Minimal Arch Linux wallpaper"></td>
 </tr>
 <tr>
@@ -52,21 +52,21 @@ The collection moves between noir cityscapes, deep space, anime night scenes, ab
 - JPG and PNG formats
 - Descriptive filenames for easy searching and scripting
 - Exact duplicate files removed from the collection
-- Compatible with `awww`, `swww`, `hyprpaper`, `feh`, and desktop wallpaper pickers
+- Compatible with common desktop wallpaper pickers
 
-## Use With Noir Signal
+## Using the Collection
 
-Copy the collection into the wallpaper directory used by Noir Signal:
+Copy the collection into any wallpaper directory you prefer:
 
 ```bash
-mkdir -p ~/Pictures/wallpaper
-cp -- *.jpg *.jpeg *.png *.webp ~/Pictures/wallpaper/
+mkdir -p ~/Pictures/wallpapers
+cp -- *.jpg *.jpeg *.png *.webp ~/Pictures/wallpapers/
 ```
 
-The Noir Signal wallpaper picker looks in:
+The example directory is:
 
 ```text
-~/Pictures/wallpaper
+~/Pictures/wallpapers
 ```
 
 It supports these formats:
@@ -75,26 +75,12 @@ It supports these formats:
 .jpg  .jpeg  .png  .webp
 ```
 
-Change the wallpaper with the picker:
-
-```bash
-~/.config/hypr/scripts/wallpaper-picker
-```
-
-Choose a random wallpaper directly:
-
-```bash
-~/.config/hypr/scripts/wallpaper-picker --random
-```
-
-When used with the Noir Signal desktop, changing the wallpaper also regenerates the Matugen palette for Hyprland, Waybar, Kitty, Rofi, and Hyprlock.
-
 ## Browse Locally
 
 List the collection by name:
 
 ```bash
-find ~/Pictures/wallpaper -maxdepth 1 -type f \
+find ~/Pictures/wallpapers -maxdepth 1 -type f \
   \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) \
   -printf '%f\n' | sort
 ```
@@ -102,7 +88,7 @@ find ~/Pictures/wallpaper -maxdepth 1 -type f \
 Find large files before copying the collection to another machine:
 
 ```bash
-find ~/Pictures/wallpaper -maxdepth 1 -type f -printf '%s %f\n' \
+find ~/Pictures/wallpapers -maxdepth 1 -type f -printf '%s %f\n' \
   | sort -nr | numfmt --field=1 --to=iec
 ```
 
@@ -132,4 +118,4 @@ Please do not add images that you do not have permission to redistribute. When t
 
 This repository is a personal wallpaper collection. Image rights and licenses may differ by file. Do not assume that every image is free to redistribute or use commercially. Verify the source and licensing terms of an image before sharing it outside personal use.
 
-The repository layout, README, and collection tooling are maintained for the Noir Signal desktop setup.
+The collection is maintained as an independent wallpaper repository.
