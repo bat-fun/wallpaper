@@ -23,7 +23,7 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 
 <table>
 <tr>
-<td width="50%"><img src="black-holes.png" alt="black holes wallpaper"></td>
+<td width="50%"><img src="black-hole.png" alt="black holes wallpaper"></td>
 <td width="50%"><img src="earth.jpg" alt="Cosmic earth wallpaper"></td>
 </tr>
 <tr>
