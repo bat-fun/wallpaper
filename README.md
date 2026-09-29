@@ -23,12 +23,12 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 
 <table>
 <tr>
-<td width="50%"><img src="binary-black-holes.png" alt="Binary black holes wallpaper"></td>
-<td width="50%"><img src="cosmic-sunset.png" alt="Cosmic sunset wallpaper"></td>
+<td width="50%"><img src="black-hole.png" alt="black holes wallpaper"></td>
+<td width="50%"><img src="bid.jpg" alt="Cosmic earth wallpaper"></td>
 </tr>
 <tr>
-<td width="50%"><img src="blue-space-art.png" alt="Blue space art wallpaper"></td>
-<td width="50%"><img src="floating-astronaut.png" alt="Floating astronaut wallpaper"></td>
+<td width="50%"><img src="planet.jpg" alt="planet wallpaper"></td>
+<td width="50%"><img src="ice-moon.png" alt="ice moon wallpaper"></td>
 </tr>
 </table>
 
@@ -36,11 +36,24 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 
 <table>
 <tr>
-<td width="50%"><img src="red-samurai-sun.jpg" alt="Red samurai and sun wallpaper"></td>
-<td width="50%"><img src="batman-bike.png" alt="Batman motorcycle wallpaper"></td>
+<td width="50%"><img src="batman-red.png" alt="Red wallpaper"></td>
+<td width="50%"><img src="batman.png" alt="Batman wallpaper"></td>
 </tr>
 <tr>
-<td width="50%"><img src="pink-future-car.png" alt="Pink futuristic car wallpaper"></td>
-<td width="50%"><img src="one-piece-moon.png" alt="One Piece moon wallpaper"></td>
+<td width="50%"><img src="alita.png" alt="alita wallpaper"></td>
+<td width="50%"><img src="gear5.png" alt="One Piece moon wallpaper"></td>
 </tr>
+</table>
+
+### Anime girls
+
+<table>
+  <tr>
+    <td width="50%"><img src="beautiful-sad-anime-girl.jpg" alt="beautiful-sad-anime-girl"></td>
+    <td width="50%"><img src="blod-girl.jpg" alt="bloody-anime-girl"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="boy&girl.jpg" alt="boy and anime-girl"></td>
+    <td width="50%"><img src="girl-flowers.jpg" alt="anime-girl"></td>
+  </tr>
 </table>
