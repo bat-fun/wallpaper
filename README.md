@@ -10,7 +10,7 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 
 <table>
 <tr>
-<td width="50%"><img src="city-at-night.png" alt="City at night wallpaper"></td>
+<td width="50%"><img src="executable_wire.png" alt="City at night wallpaper"></td>
 <td width="50%"><img src="arch.jpg" alt="Minimal Arch Linux wallpaper"></td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 </tr>
 <tr>
 <td width="50%"><img src="alita.png" alt="alita wallpaper"></td>
-<td width="50%"><img src="gear5.png" alt="One Piece moon wallpaper"></td>
+<td width="50%"><img src="gear-5.png" alt="One Piece moon wallpaper"></td>
 </tr>
 </table>
 
@@ -49,8 +49,8 @@ The collection moves between dark cityscapes, deep space, anime night scenes, ab
 
 <table>
   <tr>
-    <td width="50%"><img src="beautiful-sad-anime-girl.jpg" alt="beautiful-sad-anime-girl"></td>
-    <td width="50%"><img src="blod-girl.jpg" alt="bloody-anime-girl"></td>
+    <td width="50%"><img src="girl-face.jpg" alt="beautiful-sad-anime-girl"></td>
+    <td width="50%"><img src="girl-in.jpg" alt="anime-girl"></td>
   </tr>
   <tr>
     <td width="50%"><img src="boy&girl.jpg" alt="boy and anime-girl"></td>
